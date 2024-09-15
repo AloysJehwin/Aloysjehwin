@@ -11,14 +11,13 @@
 
 - 🤝 I’m looking for help with **AURA-Health**
 
-- 👨‍💻 All of my projects are available at [aloysjehwin.com](aloysjehwin.com)
+- 👨‍💻 All of my projects are available at [aloysjehwin.com](https://aloysjehwin.com/)
 
 - 📫 How to reach me **aloysjehwin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aloys_jehwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aloys_jehwin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aloysjehwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aloysjehwin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
