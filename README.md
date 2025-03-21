@@ -1,4 +1,3 @@
-[![MasterHead](https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg)](https://aloysjehwin.com)
 <h1 align="center">Hi 👋, I'm Aloys Jehwin</h1>
 <h3 align="center">A passionate backend developer from India, Worked in numerous projects</h3>
 - 🔭 I’m currently working on **three idiots**
