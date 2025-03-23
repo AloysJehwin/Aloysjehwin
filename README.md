@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aloys Jehwin</h1>
 <h3 align="center">A passionate backend developer from India, Worked in numerous projects</h3>
 - 🔭 I’m currently working on NodeJS Projects
+
 - 🌱 I’m currently learning **JAVA-OOP, DSA**
 
 - 📫 How to reach me **aloysjehwin@gmail.com**
