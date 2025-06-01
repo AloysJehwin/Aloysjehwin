@@ -8,6 +8,9 @@ public class AloysJehwin {
         this.hobbies = Arrays.asList("Building Software", "Bike Riding");
     }
 }
+```
+<!-- Visitor counter -->Add commentMore actions
+<!-- ![](https://komarev.com/ghpvc/?username=cole-hartman&label=Visitors&base=253&abbreviated=true&style=flat&color=blue) -->Add commentMore actions
 
 
 ## About Me
