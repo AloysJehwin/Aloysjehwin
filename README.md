@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full-stack+Developer;Experienced+in+Backend+Development;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
+```java
+public class AloysJehwin {
+     public AloysJehwin() {
+        this.age = 21;
+        this.basedIn = "India";
+        this.major = "Computer Science";
+        this.hobbies = Arrays.asList("Building Software", "Bike Riding");
+    }
+}
 
-```python
-class Cole:
-    def __init__(self):
-        self.age = 21
-        self.based_in = "India"
-        self.major = "Computer Science"
-        self.hobbies = ["Building Software", "Bike Riding"]
-```
-<!-- Visitor counter -->
-<!-- ![](https://komarev.com/ghpvc/?username=cole-hartman&label=Visitors&base=253&abbreviated=true&style=flat&color=blue) -->
 
 ## About Me
 
