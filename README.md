@@ -5,7 +5,7 @@ public class AloysJehwin {
         this.age = 21;
         this.basedIn = "India";
         this.major = "Computer Science";
-        this.hobbies = Arrays.asList("Building Software", "Bike Riding");
+        this.hobbies = Arrays.asList("Building Software", "Building Automation", "Integrating AI Agents", "Bike Riding");
     }
 }
 ```
